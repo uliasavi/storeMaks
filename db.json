@@ -1,0 +1,131 @@
+{
+  "newsData": [
+      {
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+        "img": "1.jpg",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+        "path": "1",
+        "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+      },
+      {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "5.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "2",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "3.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "3",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "4.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "4",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "5.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "5",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "6.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "6",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "1.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "7",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "5.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "8",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "3.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "9",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "4.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "10",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "1.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "11",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "1.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "12",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "1.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "13",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "1.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "14",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "1.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "15",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "1.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "16",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "1.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "17",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        },
+        {
+          "title": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "img": "1.jpg",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, placeat!",
+          "path": "18",
+          "maintext": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat id voluptates, fugit a perspiciatis totam dicta itaque labore debitis, repellendus quaerat voluptatum? Fugiat maxime reiciendis cupiditate magni quo. Optio sequi cum doloremque dolores nihil animi consequatur aperiam dolorem in, sit quidem ut dolore eaque voluptatum ab quam ipsa maxime, eligendi delectus ipsam. Ducimus, fuga ea, doloribus magnam eaque impedit consequuntur libero dolore quasi fugiat atque vitae! Rem sint eum iusto facere nam saepe molestiae blanditiis exercitationem corporis laboriosam? Aperiam incidunt reprehenderit, nihil laborum quia inventore nam dignissimos ab voluptates totam ut vero quam. Itaque maiores tempora quia tenetur est cumque!"
+        }         
+      
+    ]
+}

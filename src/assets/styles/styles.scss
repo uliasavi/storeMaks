@@ -1,0 +1,17 @@
+@import 'variables.scss';
+
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+.container {
+    width: 90vw;
+    margin: 0 auto;
+}
